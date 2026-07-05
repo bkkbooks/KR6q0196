@@ -21,11 +21,11 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0196_000.yaml, hash: 'sha256:6460f32714d6f94321cbcc32cd1b9abd9d5d72330c059c0e8258a2dea070be01'}
-  - {seq: 6, filename: KR6q0196_006.yaml, hash: 'sha256:03bed50fafce328a2608062e9b3511d6870d8c5750dd2b2dc5322dae0782d86c'}
+  - {seq: 0, filename: KR6q0196_000.yaml, hash: 'sha256:d861719d698e10928256542fc94871874b01a070e3cd96ee9282db62a446b47b'}
+  - {seq: 6, filename: KR6q0196_006.yaml, hash: 'sha256:635f8d585ab76ed7adda8341df10c789aa7d713d4aa88faf9b1fc35e5bbc361f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0196_000.markers.yaml, hash: 'sha256:4276e64db7469b54153505571261eabb4f14a2c683404bfda278e6582daf01db'}
-  - {seq: 6, role: markers, filename: assets/KR6q0196_006.markers.yaml, hash: 'sha256:2b19cc3b3dffa1a47de5052b3d249862a1668df6864482bf1b447e8650385c19'}
+  - {seq: 0, role: markers, filename: assets/KR6q0196_000.markers.yaml, hash: 'sha256:10e1d1ea29d07e8c34be4c602356c4a4a7c038831db51ba9ceb3dce0ba2e9378'}
+  - {seq: 6, role: markers, filename: assets/KR6q0196_006.markers.yaml, hash: 'sha256:3bba1be3152d8c1782475fe9df1f6b8327692b2c3d6e740821da5c487dc2f888'}
 table_of_contents:
 - ref:
     seq: 0
@@ -747,7 +747,4 @@ table_of_contents:
   label: 萬玉飄香墨梅為聰慧菴題
   type: mulu
   level: 1
-hash: sha256:99ae1b9fb4b2f96110c07a9a41ae4b7123eea4cd53590fc17eb82114804fd952
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d50ba7cf7ad5867ba1c5916a3e5ca604e1fe39eedefbc22dc6e5b7fb2ae98ddd
