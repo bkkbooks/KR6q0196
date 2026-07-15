@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0196/v1
 canonical_location: https://kanripo.org/bkk/KR6q0196/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大巍禪師竹室集
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0196_000.yaml, hash: 'sha256:d861719d698e10928256542fc94871874b01a070e3cd96ee9282db62a446b47b'}
-  - {seq: 6, filename: KR6q0196_006.yaml, hash: 'sha256:635f8d585ab76ed7adda8341df10c789aa7d713d4aa88faf9b1fc35e5bbc361f'}
+  - {seq: 0, filename: KR6q0196_000.yaml, hash: 'sha256:40a84cdd215c4738c6219c8b407bd7458c3454d84c2afaa425b39adde08217e0'}
+  - {seq: 6, filename: KR6q0196_006.yaml, hash: 'sha256:dbbf7bb4e5e544f2390ffa9c9e556dea5b7be767867b4bac837c0ec6da5f6ee4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0196_000.markers.yaml, hash: 'sha256:10e1d1ea29d07e8c34be4c602356c4a4a7c038831db51ba9ceb3dce0ba2e9378'}
-  - {seq: 6, role: markers, filename: assets/KR6q0196_006.markers.yaml, hash: 'sha256:3bba1be3152d8c1782475fe9df1f6b8327692b2c3d6e740821da5c487dc2f888'}
+  - {seq: 0, role: markers, filename: assets/KR6q0196_000.markers.yaml, hash: 'sha256:b19afdc146b93ae6adaa4fb70c67043afbab1cc518c2b0034a82da9f4ea2cee5'}
+  - {seq: 6, role: markers, filename: assets/KR6q0196_006.markers.yaml, hash: 'sha256:d2c6e295f3d6490bbf9f4e5afd28234095b8faa32dd9ec2322da12d48effc55a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -747,4 +747,7 @@ table_of_contents:
   label: 萬玉飄香墨梅為聰慧菴題
   type: mulu
   level: 1
-hash: sha256:d50ba7cf7ad5867ba1c5916a3e5ca604e1fe39eedefbc22dc6e5b7fb2ae98ddd
+hash: sha256:8370b816f2c8130ef0764e9bc33b11f2582d4a40b5bd12c60bd9fd3e1f22c2aa
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
