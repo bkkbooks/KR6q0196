@@ -21,17 +21,17 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0196_000.yaml, hash: 'sha256:40a84cdd215c4738c6219c8b407bd7458c3454d84c2afaa425b39adde08217e0'}
+  - {seq: 0, filename: KR6q0196_000.yaml, hash: 'sha256:0201eab1043a88c45a9cdffee5f00879a114bb2ea35f492e2d49a567d048822c'}
   - {seq: 6, filename: KR6q0196_006.yaml, hash: 'sha256:dbbf7bb4e5e544f2390ffa9c9e556dea5b7be767867b4bac837c0ec6da5f6ee4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0196_000.markers.yaml, hash: 'sha256:b19afdc146b93ae6adaa4fb70c67043afbab1cc518c2b0034a82da9f4ea2cee5'}
+  - {seq: 0, role: markers, filename: assets/KR6q0196_000.markers.yaml, hash: 'sha256:0f1fd89e274c89874eef3a5ea6273841e80ddd66967a04e095cf9ff338d2d226'}
   - {seq: 6, role: markers, filename: assets/KR6q0196_006.markers.yaml, hash: 'sha256:d2c6e295f3d6490bbf9f4e5afd28234095b8faa32dd9ec2322da12d48effc55a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0196_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 大巍禪師竹室集序
@@ -747,7 +747,7 @@ table_of_contents:
   label: 萬玉飄香墨梅為聰慧菴題
   type: mulu
   level: 1
-hash: sha256:8370b816f2c8130ef0764e9bc33b11f2582d4a40b5bd12c60bd9fd3e1f22c2aa
+hash: sha256:72701ae0070f0333cf6b9befc771d3fff8efcdb46160030119700004ed07b28a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
